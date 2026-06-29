@@ -10,5 +10,5 @@ Mida ma täpsemalt sel nädalal tegin, milline oli minu vastutus/ülesanne.
 Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - mille jaoks, kuidas aitas.
 
 ## Failid ja pildid
-- 
+[Nädal8_roll_visualize_export.py](https://github.com/user-attachments/files/29474536/Nadal8_roll_visualize_export.py)
 
