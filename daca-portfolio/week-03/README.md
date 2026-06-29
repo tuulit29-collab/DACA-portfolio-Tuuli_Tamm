@@ -12,3 +12,5 @@ Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - m
 ## Failid ja pildid
 - 
 
+[N3_SQL JOINs _Tiim_TOODE.pdf](https://github.com/user-attachments/files/29474343/N3_SQL.JOINs._Tiim_TOODE.pdf)
+[Nädal3_rollA.docx](https://github.com/user-attachments/files/29474339/Nadal3_rollA.docx)
