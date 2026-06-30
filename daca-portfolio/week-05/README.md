@@ -2,13 +2,14 @@
 # Nädal 05
 
 ## Meeskonna teema
-Mida meie tiim Toode sel nädalal tegi / millise teema/probleemiga tegeles.
+Visualiseerimise disain - Iga meeskonnaliige loob dashboard'i ühele stakeholder'ile. Lõpuks panete kokku tervikliku investorikõlbliku ülevaate, mis rahuldab kõiki kolme vajadust.
+
 
 ## Minu roll
-Mida ma täpsemalt sel nädalal tegin, milline oli minu vastutus/ülesanne.
+ Investor Dashboard (koondvaade)- roll D - Investor Dashboard (koondvaade — rollide A+B+C süntees).
 
 ## AI osa minu töös
-Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - mille jaoks, kuidas aitas.
+Kasutasin seekord palju Claude abi, et saada kogu dashboardi vaade paremini paika, eriti kuna minu rollnägi ette teiste rollide tulemuste kasutamist oli see suuretsi abiks.
 
 ## Failid ja pildid
 [N5_grupitöö_visualiseerimise disain_tiim toode.pdf](https://github.com/user-attachments/files/29474381/N5_grupitoo_visualiseerimise.disain_tiim.toode.pdf)
