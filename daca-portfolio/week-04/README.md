@@ -2,13 +2,14 @@
 # Nädal 04
 
 ## Meeskonna teema
-Mida meie tiim Toode sel nädalal tegi / millise teema/probleemiga tegeles.
+SQL Agregatsioon - Nädala äriprobleem: Kristi Tamm (CEO) vajab juhatuse koosolekuks koondnumbreid. Anna koordineerib: iga domeen (müük, kliendid, inventuur, turundus) peab andma oma koondandmed. Seekord ei piisa lihtsast SELECT-ist — vaja on GROUP BY, HAVING ja CTE-dega ehitatud ärianalüüse.
+
 
 ## Minu roll
-Mida ma täpsemalt sel nädalal tegin, milline oli minu vastutus/ülesanne.
+Kliendigruppide analüüs -roll B. Kliendigruppide analüüs CTE-ga. Kasutati CTE-d, et arvutada iga kliendi kogukulutus, seejärel segmenteeriti
 
 ## AI osa minu töös
-Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - mille jaoks, kuidas aitas.
+Kasutasin Claude'i CTE päringu debug'imiseks.
 
 ## Failid ja pildid
 
