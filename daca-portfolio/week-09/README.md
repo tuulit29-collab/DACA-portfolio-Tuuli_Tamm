@@ -1,7 +1,7 @@
 # Nädal 09
 
 ## Meeskonna teema
-Mida meie tiim Toode sel nädalal tegi / millise teema/probleemiga tegeles.
+Karjääri ettevalmistus
 
 ## Minu roll
 Mida ma täpsemalt sel nädalal tegin, milline oli minu vastutus/ülesanne.
