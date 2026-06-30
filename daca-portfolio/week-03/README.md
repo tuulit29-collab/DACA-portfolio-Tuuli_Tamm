@@ -1,16 +1,15 @@
 # Nädal 03
 
 ## Meeskonna teema
-Mida meie tiim Toode sel nädalal tegi / millise teema/probleemiga tegeles.
+SQL JOINs. UrbanStyle.ltd andmed on erinevates tabelites (sales, customers, products, inventory). Anna vajab vastuseid, mis nõuavad mitme tabeli ühendamist: kes ostab, kes ei osta, mis müüb, mis ei müü, ning kuidas müügikanalid ja linnad tulemust mõjutavad
 
 ## Minu roll
-Mida ma täpsemalt sel nädalal tegin, milline oli minu vastutus/ülesanne.
+Müük + Kliendid (INNER JOIN) -  Ühendasin `sales` ja `customers` tabelid INNER JOIN-iga. Leidsin 10 Top klienti müügi järgi, analüüsisin müüki linnade kaupa, uurisin loyalty tier jaotust.
 
 ## AI osa minu töös
-Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - mille jaoks, kuidas aitas.
+Kasutasin koodimisel ning veateadete analüüsimisel Calude abi.
 
 ## Failid ja pildid
-- 
 
 [N3_SQL JOINs _Tiim_TOODE.pdf](https://github.com/user-attachments/files/29474343/N3_SQL.JOINs._Tiim_TOODE.pdf)
 [Nädal3_rollA.docx](https://github.com/user-attachments/files/29474339/Nadal3_rollA.docx)
