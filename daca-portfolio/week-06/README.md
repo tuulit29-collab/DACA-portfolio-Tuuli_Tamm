@@ -2,10 +2,10 @@
 # Nädal 06
 
 ## Meeskonna teema
-Visualiseerimise andmed - iga meeskonnaliige lõi ühe asukoha dashboard'i koos narratiiviga — ja meeskond pani need kokku ühtseks loopõhiseks koondvaateks.
+Visualiseerimise andmed - iga meeskonnaliige lõi ühe asukoha dashboard'i koos narratiiviga — ja meeskond pani need kokku ühtseks loopõhiseks koondvaateks. Meie meeskond, Toode, analüüsis UrbanStyle'i 4 asukohta: Tallinn, Tartu, Pärnu, E-pood (Online).
 
 ## Minu roll
-Tallinna Kaupluse Lugu - tuli luua Tallinna kaupluse interaktiivne dashboard koos andmelooga. Tallinn on UrbanStyle'i peakontor ja suurim kauplus — siin peab olema näha tugevused JA kasvuvõimalused.
+Tallinna Kaupluse Lugu - tuli luua Tallinna kaupluse interaktiivne dashboard koos andmelooga. Tallinn on UrbanStyle'i peakontor ja suurim kauplus — siin pidid olema näha tugevused ja kasvuvõimalused.
 
 
 ## AI osa minu töös
