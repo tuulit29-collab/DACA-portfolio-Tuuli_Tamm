@@ -2,7 +2,7 @@
 
 ## Lühikirjeldus
 
-Liitusin DACA programmiga, et arendada oma oskusi andmeanalüüsist ning saada praktilisi kogemusi SQL-i, Power BI ja Pythoniga. Siia portfooliosse koondan iganädalaselt teemad, millega meie tiim Toode tegeles ning täpsemalt lisan, milline oli minu roll meeskonnas ning AI osa minu töös.
+Liitusin DACA programmiga, et arendada oma oskusi andmeanalüüsist ning saada praktilisi kogemusi SQL-i, Power BI ja Pythoniga. Siia portfooliosse koondan iganädalaselt teemad, millega meie neljaliikmeline tiim, "Toode", tegeles ning täpsemalt lisan, milline oli minu roll meeskonnas ning AI osa minu töös.
 
 ## Sisukord
 
