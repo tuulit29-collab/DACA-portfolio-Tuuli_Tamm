@@ -28,10 +28,9 @@ Roll D - Personalijuhi vaade (People Manager) -
 │  - Värbamissoovitus: Jah / Lisavestlus / Ei (koos põhjendusega)│
 
 
-## AI osa minu töös
+## AI kasutamine
 Kuidas ja kus kasutasin AI-d (nt Copilot, ChatGPT, Claude) oma töö käigus - mille jaoks, kuidas aitas.
 
-## Failid ja pildid
 
 Viide minu portfooliole : [https://github.com/tuulit29-collab/DACA-portfolio-Tuuli_Tamm ](https://github.com/tuulit29-collab/DACA-portfolio-Tuuli_Tamm/tree/main/daca-portfolio)
 Värbamisjuhend
